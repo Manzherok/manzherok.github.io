@@ -26,8 +26,16 @@ Most recent posts:
 Coming soon: 
 - Partitions of Unity in Context
 
-* {:toc}
-
 ## Differential Geometry
 
 ## Complex Analysis
+
+# Contents
+{:.no_toc}
+
+* Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
+
+# H1 header
+
+## H2 header
