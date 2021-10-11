@@ -26,7 +26,7 @@ Most recent posts:
 Coming soon: 
 - Partitions of Unity in Context
 
-{:toc}
+* {:toc}
 
 ## Differential Geometry
 
