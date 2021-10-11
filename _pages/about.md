@@ -18,11 +18,11 @@ Welcome to Манжерок, an online mathematics blog. I, the author of this b
 
 {:toc}
 # Published Articles
-<details>
-<summary> All articles (expand)</summary>
-  
-  - (October 11, 2021) [A Walk Through Paracompactness](https://en.wikipedia.org/wiki/Function_of_several_complex_variables)
-</details>
+Most recent posts:
+- A Walk Through Paracompactness (Published October 11, 2021)
+
+Coming soon: 
+- Partitions of Unity in Context
 
 ## Differential Geometry
 
