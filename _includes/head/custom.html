@@ -27,6 +27,9 @@
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
+    "HTML-CSS": {
+      preferredFont: "STIX"
+    },
     tex2jax: {
       inlineMath: [ ['$','$'], ["\\(","\\)"] ],
       displayMath: [ ['$$','$$'], ["\\(","\\)"] ],
@@ -38,10 +41,11 @@
         braket: ["\\langle{#1}\\rangle", 1],
         bk: ["\\langle{#1}|{#2}|{#3}\\rangle", 3]
      }
-   }
+    }
   });
 </script>
 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 <!-- end custom head snippets -->
+
