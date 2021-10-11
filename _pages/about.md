@@ -18,24 +18,20 @@ Welcome to Манжерок, an online mathematics blog. I, the author of this b
 \
 You are welcome to send your questions and comments to my email: manzherokscv@gmail.com. 
 
-
 # Published Articles
-Most recent posts:
+{:.no_toc}
+
+**Most recent posts**:
 - A Walk Through Paracompactness (Published October 11, 2021)
 
-Coming soon: 
+**Coming soon**: 
 - Partitions of Unity in Context
+
+* Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
 
 ## Differential Geometry
 
 ## Complex Analysis
 
-# Contents
-{:.no_toc}
 
-* Will be replaced with the ToC, excluding the "Contents" header
-{:toc}
-
-# H1 header
-
-## H2 header
