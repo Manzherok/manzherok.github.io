@@ -21,7 +21,7 @@ Welcome to Манжерок, an online mathematics blog. I, the author of this b
 <details>
 <summary> All articles (expand)</summary>
   
-  - [A Walk Through Paracompactness](https://en.wikipedia.org/wiki/Function_of_several_complex_variables) (Published October 11, 2021)
+  - (October 11, 2021) [A Walk Through Paracompactness](https://en.wikipedia.org/wiki/Function_of_several_complex_variables)
 </details>
 
 ## Differential Geometry
