@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Let $X$ be some paracompact topological space together with a locally Euclidean structure $\mathcal{A}$ consisting of charts $(U_\alpha, \varphi_\alpha)$.
+Let $X$ be some paracompact topological space together with a locally Euclidean structure $\mathcal{A}$ consisting of charts $(U_\alpha, \varphi_\alpha)$. Consider $$\int_{\partial M} d \omega = \sin(f(x))\psi$$
 
 A data-driven personal website
 ======
