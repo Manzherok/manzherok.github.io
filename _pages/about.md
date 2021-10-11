@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-([Tell me, my friend, what is Manzherok?](https://www.youtube.com/watch?v=opXFUqsZIbc))
+([Tell me my friend, what is Manzherok?](https://www.youtube.com/watch?v=opXFUqsZIbc))
 
 \
 \
