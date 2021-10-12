@@ -16,6 +16,8 @@ redirect_from:
 \
 Welcome to Манжерок, an online mathematics blog. I, the author of this blog, am a student of mathematics in the [Midwestern United States](https://en.wikipedia.org/wiki/Midwestern_United_States) studying functions of [several complex variables](https://en.wikipedia.org/wiki/Function_of_several_complex_variables) and [geometric analysis](https://en.wikipedia.org/wiki/Geometric_analysis). On this blog, I plan to publish articles discussing various constructions in mathematics. Some are written with a pedagogical aim to walk the reader through a concept, while others are less accessible to the layman. Nonetheless, I hope you are able to learn something valuable here. 
 \
+\
+\
 You are welcome to send your questions and comments to my email: manzherokscv@gmail.com. 
 
 # Published Articles
