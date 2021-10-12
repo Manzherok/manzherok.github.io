@@ -26,11 +26,12 @@ You are welcome to send your questions and comments to my email: manzherokscv@gm
 *Contents*
 * Will be replaced with the ToC, excluding the "Contents" header
 {:toc}
-
-
+\
+\
 **Most recent posts**:
 - A Walk Through Paracompactness (Published October 11, 2021)
-
+\
+\
 **Coming soon**: 
 - Partitions of Unity in Context
 
